@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(51, 50, 50); 
+    align-items: center;   
+    height: 40px; 
+}
+
+#navigation {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    display: flex;
+    align-items: center; 
+    color: white;
+}
+
+.nav-list-items {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    list-style: none; 
+}
+
+.nav-anchor-items {
+    text-decoration: none;
+    color: white;
+}
